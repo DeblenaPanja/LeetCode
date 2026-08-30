@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/DeblenaPanja/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/DeblenaPanja/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DeblenaPanja/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/DeblenaPanja/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeblenaPanja/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeblenaPanja/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/DeblenaPanja/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DeblenaPanja/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
 ## Union-Find
 |  |
 | ------- |
