@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeblenaPanja/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/DeblenaPanja/LeetCode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/DeblenaPanja/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/DeblenaPanja/LeetCode/tree/master/0389-find-the-difference) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DeblenaPanja/LeetCode/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/DeblenaPanja/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/DeblenaPanja/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DeblenaPanja/LeetCode/tree/master/0012-integer-to-roman) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeblenaPanja/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeblenaPanja/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeblenaPanja/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
