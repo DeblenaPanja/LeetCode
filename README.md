@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeblenaPanja/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeblenaPanja/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3904-smallest-stable-index-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeblenaPanja/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
