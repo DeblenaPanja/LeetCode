@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/DeblenaPanja/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeblenaPanja/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/DeblenaPanja/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/DeblenaPanja/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeblenaPanja/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
 ## Counting Sort
@@ -166,8 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeblenaPanja/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/0022-generate-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
