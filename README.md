@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DeblenaPanja/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeblenaPanja/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DeblenaPanja/LeetCode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeblenaPanja/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/DeblenaPanja/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeblenaPanja/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeblenaPanja/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
