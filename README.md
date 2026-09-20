@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/DeblenaPanja/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/DeblenaPanja/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeblenaPanja/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/DeblenaPanja/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/DeblenaPanja/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
