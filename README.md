@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DeblenaPanja/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/DeblenaPanja/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeblenaPanja/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeblenaPanja/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeblenaPanja/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DeblenaPanja/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DeblenaPanja/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeblenaPanja/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/DeblenaPanja/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeblenaPanja/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DeblenaPanja/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DeblenaPanja/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeblenaPanja/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/DeblenaPanja/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
+| [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DeblenaPanja/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DeblenaPanja/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DeblenaPanja/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DeblenaPanja/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeblenaPanja/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/0040-combination-sum-ii) |
+| [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -273,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DeblenaPanja/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
