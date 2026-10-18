@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/DeblenaPanja/LeetCode/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/DeblenaPanja/LeetCode/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeblenaPanja/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/DeblenaPanja/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DeblenaPanja/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/DeblenaPanja/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DeblenaPanja/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/DeblenaPanja/LeetCode/tree/master/0050-powx-n) |
 ## Combinatorics
 |  |
 | ------- |
