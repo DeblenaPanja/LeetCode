@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeblenaPanja/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/DeblenaPanja/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/DeblenaPanja/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/DeblenaPanja/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DeblenaPanja/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DeblenaPanja/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/DeblenaPanja/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/DeblenaPanja/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/DeblenaPanja/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DeblenaPanja/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DeblenaPanja/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sliding Window
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/DeblenaPanja/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/DeblenaPanja/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/DeblenaPanja/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DeblenaPanja/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/DeblenaPanja/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeblenaPanja/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
