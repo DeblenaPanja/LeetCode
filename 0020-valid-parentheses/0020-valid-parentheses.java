@@ -1,25 +1,25 @@
 class Solution {
-    public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-
-        for (int i = 0; i < s.length(); i++) {
-            char cur = s.charAt(i);
-            if (!stack.isEmpty()) {
-                char last = stack.peek();
-                if (isPair(last, cur)) {
-                    stack.pop();
-                    continue;
-                }
-            }
-            stack.push(cur);
+    static {
+        for (int i = 1; i < 500; i++) {
+            isValid("");
         }
-
-        return stack.isEmpty();        
     }
-
-    private boolean isPair(char last, char cur) {
-        return (last == '(' && cur == ')') ||
-               (last == '{' && cur == '}') ||
-               (last == '[' && cur == ']');
-    }    
+    public static boolean isValid(String str) {
+        if (str.length() % 2 == 1) {
+            return false;
+        }
+        char stack[] = new char[str.length()];
+        int top = -1;
+        for (char ch : str.toCharArray()) {
+            if (ch == '(' || ch == '{' || ch == '[') {
+                stack[++top] = ch;
+            } else if (top != -1 && stack[top] == '(' && ch == ')' || top != -1 && stack[top] == '{' && ch == '}'
+                    || top != -1 && stack[top] == '[' && ch == ']') {
+                top--;
+            } else {
+                return false;
+            }
+        }
+        return top == -1;
+    }
 }
