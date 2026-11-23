@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DeblenaPanja/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/DeblenaPanja/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/DeblenaPanja/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeblenaPanja/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/DeblenaPanja/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/DeblenaPanja/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3477-fruits-into-baskets-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeblenaPanja/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Ordered Set
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DeblenaPanja/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DeblenaPanja/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DeblenaPanja/LeetCode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/DeblenaPanja/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DeblenaPanja/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Union-Find
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DeblenaPanja/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DeblenaPanja/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/DeblenaPanja/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/DeblenaPanja/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/DeblenaPanja/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeblenaPanja/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeblenaPanja/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
